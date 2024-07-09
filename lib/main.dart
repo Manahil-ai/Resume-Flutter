@@ -7,6 +7,7 @@ void main() {
     )
   );
 }
+//add class home.
 class Home extends StatelessWidget {
 
   @override
